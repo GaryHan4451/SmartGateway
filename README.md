@@ -1,0 +1,2 @@
+# SmartGateway
+used for IOT
